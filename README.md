@@ -1,3 +1,3 @@
-# KUNET GLOBAL
+# KUNET Web Portal
 
-boop
+### [net.kualta.dev](https://net.kualta.dev/)
